@@ -1,5 +1,7 @@
 import React from 'react'
-
+export const metadata={
+  title : "Review"
+}
 export default function Reviewpage() {
   return (
     <div>Product Review
